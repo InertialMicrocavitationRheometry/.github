@@ -12,7 +12,7 @@ Now it is developed and maintained by the groups of Professors
 * [Mauro Rodriguez](https://vivo.brown.edu/display/mrodri97)
 * [Spencer Bryngelson](https://comp-physics.group/).
 
-The main-release repository is `IMR_main`. 
+The main-release repository is `IMR_v1`. 
 There is a user guide and documentation to get you started. Another good resource is the `README.md` in the repositories.
 
 If you have questions, you can contact the maintainers (e.g., [Jon Estrada](mailto:jbestrad@umich.edu)) and/or request to join the IMR Slack workspace.
