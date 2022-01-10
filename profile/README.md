@@ -2,15 +2,22 @@
 
 Inertial Microcavitation high strain-rate Rheometry (IMR) correlates the evolution of the bubble pressure and the stress field in the material with the resulting kinematics, namely the change in bubble radius over time, which is recorded via high-speed videography.
 
-Main IMR paper: http://linkinghub.elsevier.com/retrieve/pii/S0022509617307585
+IMR originated from the Franck Lab at University of Wisconsin Madison. 
+The first paper utilizing IMR is located [here](https://doi.org/10.1016/j.jmps.2017.12.006).
+Now it is developed and maintained by the groups of Professors 
+* [Christian Franck](https://directory.engr.wisc.edu/me/Faculty/Franck_Christian/)
+* [David Henann](https://vivo.brown.edu/display/dhenann)
+* [Eric Johnsen](https://me.engin.umich.edu/people/faculty/eric-johnsen/)
+* [Jon Estrada](https://me.engin.umich.edu/people/faculty/jon-estrada/)
+* [Mauro Rodriguez](https://vivo.brown.edu/display/mrodri97)
+* [Spencer Bryngelson](https://comp-physics.group/).
 
-IMR originated from the Franck Lab research group at University of Wisconsin Madison. Now it is developed and maintained by the groups of Professors [Christian Franck](https://directory.engr.wisc.edu/me/Faculty/Franck_Christian/), [David Henann](https://vivo.brown.edu/display/dhenann), [Eric Johnsen](https://me.engin.umich.edu/people/faculty/eric-johnsen/), [Jon Estrada](https://me.engin.umich.edu/people/faculty/jon-estrada/), [Mauro Rodriguez](https://vivo.brown.edu/display/mrodri97), and [Spencer Bryngelson](https://comp-physics.group/).
-
-The main-release repository is IMR_main. There is a user guide and documentation to get you started. Another good resource is the README.md in the repositories.
+The main-release repository is `IMR_main`. 
+There is a user guide and documentation to get you started. Another good resource is the `README.md` in the repositories.
 
 If you have questions, you can contact the maintainers (e.g., [Jon Estrada](mailto:jbestrad@umich.edu)) and/or request to join the IMR Slack workspace.
 
-IMR Bibliography:
+### IMR Bibliography
 
 1. J. B. Estrada, C. Barajas, D. L. Henann, E. Johnsen, and C. Franck, “High Strain-rate Soft Material Characterization via Inertial Cavitation,” J. Mech. Phys. Solids, vol. 112, pp. 291–317, 2017.
 2. C. Barajas and E. Johnsen, “The effects of heat and mass diffusion on freely oscillating bubbles in a viscoelastic, tissue-like medium,” J. Acoust. Soc. Am., vol. 141, no. 2, pp. 908–918, 2017.
