@@ -8,7 +8,7 @@ IMR originated from the Franck Lab research group at University of Wisconsin Mad
 
 The main-release repository is IMR_main. There is a user guide and documentation to get you started. Another good resource is the README.md in the repositories.
 
-If you have questions, you can contact the maintainers (e.g., [Jon Estrada](jbestrad@umich.edu)) and/or request to join the IMR Slack workspace.
+If you have questions, you can contact the maintainers (e.g., [Jon Estrada](mailto:jbestrad@umich.edu)) and/or request to join the IMR Slack workspace.
 
 IMR Bibliography:
 
