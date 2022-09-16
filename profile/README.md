@@ -10,7 +10,8 @@ Now it is developed and maintained by the groups of Professors
 * [Eric Johnsen](https://me.engin.umich.edu/people/faculty/eric-johnsen/)
 * [Jon Estrada](https://me.engin.umich.edu/people/faculty/jon-estrada/)
 * [Mauro Rodriguez](https://vivo.brown.edu/display/mrodri97)
-* [Spencer Bryngelson](https://comp-physics.group/).
+* [Spencer Bryngelson](https://comp-physics.group/)
+* [Jin Yang](https://sites.utexas.edu/yang).
 
 The main-release repository is `IMR_v1`. 
 There is a user guide and documentation to get you started. Another good resource is the `README.md` in the repositories.
@@ -29,3 +30,4 @@ If you have questions, you can contact the maintainers (e.g., [Jon Estrada](mail
 8. J. Yang, A. Tzoumaka, K. Murakami, E. Johnsen, D. L. Henann, and C. Franck, “Predicting complex nonspherical instability shapes of inertial cavitation bubbles in viscoelastic soft matter,” Phys. Rev. E, vol. 104, no. 4, pp. 1–9, 2021.
 9. L. Mancia et al., “Acoustic cavitation rheometry,” Soft Matter, vol. 17, no. 10, pp. 2931–2941, 2021.
 10. J. Yang, H. C. C. III, E. C. Bremer, S. Buyukozturk, Y. Yin, and C. Franck, “Mechanical characterization of agarose hydrogels and their inherent dynamic instabilities at ballistic to ultra-high strain-rates via inertial microcavitation,” Extrem. Mech. Lett., vol. 51, p. 101572, 2021.
+11. A. McGhee, J. Yang, E.C. Bremer, Z. Xu, H.C. Cramer III, J.B. Estrada, D.L. Henann, and C. Franck, “High-Speed, Full-Field Deformation Measurements Near Inertial Microcavitation Bubbles Inside Viscoelastic Hydrogels,” Exp. Mech., 2022.
